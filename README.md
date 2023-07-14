@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pashawell
 - 👀 I’m interested in gaming in general, but I am kind of big geek in hardware.
-- 🌱 I’m currently learning except slowly getting into c# and Python. I am also learning Polish, Russian and English.
+- 🌱 I’m currently learning slowly c# and Python. I am also learning Polish, Russian and English.
 - 💞️ I’m in love with the most beautiful girl under sun.
 - 📫 Do not try to contact me yet. I am too busy and my knowledge is tiny. 
 
